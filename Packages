@@ -1,0 +1,7 @@
+The following libraries will be needed for the code to run fully.
+  * Pandas
+  * Numpy
+  * Scikit-learn
+  * Matplotlib
+
+These can be installed using the "pip install <package name>" command from your commandline/terminal. Alternatively, the environment.yml file can be used to recreate an environment which contains all the required libraries
